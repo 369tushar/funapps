@@ -10,8 +10,6 @@ $portions = explode("/",$actual_link);
 $foldername = $portions[2];
 
 
-include("appconfig.php");
-include("../../ads/config.php");
 ?>
 
 <!DOCTYPE html>
