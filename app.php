@@ -5,6 +5,9 @@ $fbid = base64_decode($_GET['fbid']);
 }
 
 $doamin = "https://app.newsspad.com";
+$actual_link = "$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
+$portions = explode("/",$actual_link);
+
 
 include("appconfig.php");
 include("../../ads/config.php");
@@ -25,7 +28,6 @@ include("../../ads/config.php");
 <meta property="og:site_name" content="<?php echo $author;?>">
 <meta property="og:description" content="<?php echo $descri;?>">
 <meta name="description" content="<?php echo $descri;?>">
-<meta name="keywords" content="<?php echo $keywords;?>">
 <meta property="og:type" content="website">
 <meta property="og:image" content="<?php echo $domain;?>/apps/<?php echo $foldername;?>/img/<?php echo $fbid; ?>.jpg">
 <meta property="og:image:width" content="800">
