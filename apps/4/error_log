@@ -1,0 +1,33 @@
+[29-Jan-2019 08:40:19 UTC] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/oceanquiz/public_html/awesomebuzz.biz/apps/4/appconfig2.php on line 73
+[29-Jan-2019 08:40:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/oceanquiz/public_html/awesomebuzz.biz/apps/4/appconfig2.php on line 74
+[29-Jan-2019 08:40:19 UTC] PHP Warning:  getimagesize(../images/nofan.jpg): failed to open stream: No such file or directory in /home/oceanquiz/public_html/awesomebuzz.biz/apps/4/appconfig2.php on line 104
+[29-Jan-2019 08:40:19 UTC] PHP Warning:  imagecreatefromjpeg(../images/nofan.jpg): failed to open stream: No such file or directory in /home/oceanquiz/public_html/awesomebuzz.biz/apps/4/appconfig2.php on line 105
+[29-Jan-2019 08:40:19 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/oceanquiz/public_html/awesomebuzz.biz/apps/4/appconfig2.php on line 108
+[29-Jan-2019 08:40:19 UTC] PHP Warning:  getimagesize(../images/nofan.jpg): failed to open stream: No such file or directory in /home/oceanquiz/public_html/awesomebuzz.biz/apps/4/appconfig2.php on line 112
+[29-Jan-2019 08:40:19 UTC] PHP Warning:  imagecreatefromjpeg(../images/nofan.jpg): failed to open stream: No such file or directory in /home/oceanquiz/public_html/awesomebuzz.biz/apps/4/appconfig2.php on line 113
+[29-Jan-2019 08:40:19 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/oceanquiz/public_html/awesomebuzz.biz/apps/4/appconfig2.php on line 116
+[29-Jan-2019 08:40:19 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/oceanquiz/public_html/awesomebuzz.biz/apps/4/appconfig2.php on line 120
+[29-Jan-2019 08:40:19 UTC] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/oceanquiz/public_html/awesomebuzz.biz/apps/4/appconfig2.php on line 121
+[29-Jan-2019 08:40:19 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/oceanquiz/public_html/awesomebuzz.biz/apps/4/appconfig2.php on line 124
+[01-Mar-2019 01:00:25 UTC] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/oceanquiz/public_html/369quiz.com/apps/4/appconfig2.php on line 73
+[01-Mar-2019 01:00:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/oceanquiz/public_html/369quiz.com/apps/4/appconfig2.php on line 74
+[01-Mar-2019 01:00:25 UTC] PHP Warning:  getimagesize(../images/nofan.jpg): failed to open stream: No such file or directory in /home/oceanquiz/public_html/369quiz.com/apps/4/appconfig2.php on line 104
+[01-Mar-2019 01:00:25 UTC] PHP Warning:  imagecreatefromjpeg(../images/nofan.jpg): failed to open stream: No such file or directory in /home/oceanquiz/public_html/369quiz.com/apps/4/appconfig2.php on line 105
+[01-Mar-2019 01:00:25 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/oceanquiz/public_html/369quiz.com/apps/4/appconfig2.php on line 108
+[01-Mar-2019 01:00:25 UTC] PHP Warning:  getimagesize(../images/nofan.jpg): failed to open stream: No such file or directory in /home/oceanquiz/public_html/369quiz.com/apps/4/appconfig2.php on line 112
+[01-Mar-2019 01:00:25 UTC] PHP Warning:  imagecreatefromjpeg(../images/nofan.jpg): failed to open stream: No such file or directory in /home/oceanquiz/public_html/369quiz.com/apps/4/appconfig2.php on line 113
+[01-Mar-2019 01:00:25 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/oceanquiz/public_html/369quiz.com/apps/4/appconfig2.php on line 116
+[01-Mar-2019 01:00:25 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/oceanquiz/public_html/369quiz.com/apps/4/appconfig2.php on line 120
+[01-Mar-2019 01:00:25 UTC] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/oceanquiz/public_html/369quiz.com/apps/4/appconfig2.php on line 121
+[01-Mar-2019 01:00:25 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/oceanquiz/public_html/369quiz.com/apps/4/appconfig2.php on line 124
+[24-Mar-2020 20:12:54 UTC] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/oceanquiz/public_html/bongquiz.com/funapps/apps/4/appconfig2.php on line 73
+[24-Mar-2020 20:12:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/oceanquiz/public_html/bongquiz.com/funapps/apps/4/appconfig2.php on line 74
+[24-Mar-2020 20:12:54 UTC] PHP Warning:  getimagesize(../images/nofan.jpg): failed to open stream: No such file or directory in /home/oceanquiz/public_html/bongquiz.com/funapps/apps/4/appconfig2.php on line 104
+[24-Mar-2020 20:12:54 UTC] PHP Warning:  imagecreatefromjpeg(../images/nofan.jpg): failed to open stream: No such file or directory in /home/oceanquiz/public_html/bongquiz.com/funapps/apps/4/appconfig2.php on line 105
+[24-Mar-2020 20:12:54 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/oceanquiz/public_html/bongquiz.com/funapps/apps/4/appconfig2.php on line 108
+[24-Mar-2020 20:12:54 UTC] PHP Warning:  getimagesize(../images/nofan.jpg): failed to open stream: No such file or directory in /home/oceanquiz/public_html/bongquiz.com/funapps/apps/4/appconfig2.php on line 112
+[24-Mar-2020 20:12:54 UTC] PHP Warning:  imagecreatefromjpeg(../images/nofan.jpg): failed to open stream: No such file or directory in /home/oceanquiz/public_html/bongquiz.com/funapps/apps/4/appconfig2.php on line 113
+[24-Mar-2020 20:12:54 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/oceanquiz/public_html/bongquiz.com/funapps/apps/4/appconfig2.php on line 116
+[24-Mar-2020 20:12:54 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/oceanquiz/public_html/bongquiz.com/funapps/apps/4/appconfig2.php on line 120
+[24-Mar-2020 20:12:54 UTC] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/oceanquiz/public_html/bongquiz.com/funapps/apps/4/appconfig2.php on line 121
+[24-Mar-2020 20:12:54 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/oceanquiz/public_html/bongquiz.com/funapps/apps/4/appconfig2.php on line 124
